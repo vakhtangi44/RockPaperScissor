@@ -1,0 +1,15 @@
+D:\WrittenGames\RockPaperScissor\RockPaperScissor\RockPaperScissor\bin\Debug\net6.0\RockPaperScissor.exe
+D:\WrittenGames\RockPaperScissor\RockPaperScissor\RockPaperScissor\bin\Debug\net6.0\RockPaperScissor.deps.json
+D:\WrittenGames\RockPaperScissor\RockPaperScissor\RockPaperScissor\bin\Debug\net6.0\RockPaperScissor.runtimeconfig.json
+D:\WrittenGames\RockPaperScissor\RockPaperScissor\RockPaperScissor\bin\Debug\net6.0\RockPaperScissor.dll
+D:\WrittenGames\RockPaperScissor\RockPaperScissor\RockPaperScissor\bin\Debug\net6.0\RockPaperScissor.pdb
+D:\WrittenGames\RockPaperScissor\RockPaperScissor\RockPaperScissor\obj\Debug\net6.0\RockPaperScissor.csproj.AssemblyReference.cache
+D:\WrittenGames\RockPaperScissor\RockPaperScissor\RockPaperScissor\obj\Debug\net6.0\RockPaperScissor.GeneratedMSBuildEditorConfig.editorconfig
+D:\WrittenGames\RockPaperScissor\RockPaperScissor\RockPaperScissor\obj\Debug\net6.0\RockPaperScissor.AssemblyInfoInputs.cache
+D:\WrittenGames\RockPaperScissor\RockPaperScissor\RockPaperScissor\obj\Debug\net6.0\RockPaperScissor.AssemblyInfo.cs
+D:\WrittenGames\RockPaperScissor\RockPaperScissor\RockPaperScissor\obj\Debug\net6.0\RockPaperScissor.csproj.CoreCompileInputs.cache
+D:\WrittenGames\RockPaperScissor\RockPaperScissor\RockPaperScissor\obj\Debug\net6.0\RockPaperScissor.dll
+D:\WrittenGames\RockPaperScissor\RockPaperScissor\RockPaperScissor\obj\Debug\net6.0\refint\RockPaperScissor.dll
+D:\WrittenGames\RockPaperScissor\RockPaperScissor\RockPaperScissor\obj\Debug\net6.0\RockPaperScissor.pdb
+D:\WrittenGames\RockPaperScissor\RockPaperScissor\RockPaperScissor\obj\Debug\net6.0\RockPaperScissor.genruntimeconfig.cache
+D:\WrittenGames\RockPaperScissor\RockPaperScissor\RockPaperScissor\obj\Debug\net6.0\ref\RockPaperScissor.dll
